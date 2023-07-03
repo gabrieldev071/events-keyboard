@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculadora de IMC</title>
+    <!-- CSS style --> 
+    <link rel="stylesheet" href="css/style.css" />
+
+     <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/78f50e1103.js" crossorigin="anonymous"></script>
+    <!-- script -->
+    <script src="js/main.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <main id="container__input">
+        <h2>Captando valores dos inputs</h2>
+        <form id="form">
+            <div class="form-inputs">
+                <div class="form-control">
+                  <label for="v1">Digite aqui:</label>
+                  <input
+                    type="text"
+                    id="v1"
+                    placeholder=""
+                    required
+                    onkeyup="num(1)"
+                  />
+            </div>
+
+          <div class="form-inputs">
+            <div class="form-control">
+              <label for="v2">Se preferir, pode digitar aqui:</label>
+              <input
+                type="text"
+                id="v2"
+                placeholder=""
+                required
+                onkeyup="num(2)"
+              />
+            </div>
+            <div class="form-control" id="resultado">
+            </div>
+          </div>
+        </form>
+      </main>
+    </div>
+    <footer class="container__footer">
+        <p>Desenvolvido por <a class="container--link" href="https://www.linkedin.com/in/gabriel-albuquerque-souza-desenvolvedor/" target="_blank"
+            rel="noopener noreferrer"> Gabriel Souza</a> - Copyright 2023 ©. Todos os direitos reservados. 
+        </a>
+        </p>
+        <p style="text-align: center;">Repositório Github:
+            <a href="#" class="container_footer--github" target="_blank" rel="noopener noreferrer"> 
+                <i class="fa-brands fa-github"></i>
+        </p> 
+      </footer>
+  </body>
+</html>
