@@ -12,7 +12,7 @@
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
-<img src="./img/events-keyboard-demo.png" alt="demo do projeto events-keyboard-demor">
+<img src="./img/events-keyboard-demo.png" alt="demo do projeto events-keyboard-demo">
 
 <h2>Sobre o desenvolvimento do projeto:</h2>
 
@@ -66,7 +66,7 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
 
         - Variáveis no CSS.
         - Reaproveitamenteo do código.
-        - Responsividade (medidaqs relativas e para telas diferentes)
+        - Responsividade (medidas relativas e para telas diferentes)
         - Utilização do flexbox.
         - Uso de paleta de cores.
         - Utilização pseudo-elementos e pseudo-classes.
