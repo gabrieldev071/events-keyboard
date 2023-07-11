@@ -8,7 +8,7 @@
 
 <h2>Sobre o projeto:</h2>
 
-<p>Uma aplicação web onde é possível que o usuário calcule seu IMC (índice de Massa Corporal) e tenha um feedback em tempo real sobre sua classificação na tabela IMC segundo a OMS (Organização Mundial de Saúde). O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, métodos de funções, objetos, eventos e lógica de validação com JavaScript puro. </p>
+<p>Um projeto web báisco onde é possível que o usuário digite em dois campos/inputse ao digitar no teclado, os valores do inputs aparecem em uma nova div no forms. O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do TECLADO com JavaScript. </p>
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
@@ -16,7 +16,7 @@
 
 <h2>Sobre o desenvolvimento do projeto:</h2>
 
-<p>Durante o desenvolvimento pude por em prática e aprimorar minhas habilidades utilizando <strong>HTML5 e tags semânticas,</strong> <strong>CSS3 com sua estilização seguindo um padrão de cores</strong> e também pude compreender melhor como a manipulação de DOM, funções e eventos em<strong> JavaScript</strong>são implementados.</p>
+<p>Durante o desenvolvimento pude por em prática e aprimorar minhas habilidades utilizando <strong>HTML5 e tags semânticas,</strong> <strong>CSS3 com sua estilização seguindo um padrão de cores</strong> e também pude compreender melhor como a manipulação de DOM, funções e eventos em<strong> JavaScript</strong></p>
 
 <h2>💻 Deploy:</h2>
 
@@ -29,9 +29,8 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
 <h2 id="elementosprincipais">Elementos principais da página:</h2>
 
 ```
-[1] Um sessão onde é possível que o usuário preenchar seus dados (nome, altura e peso) e possa clicar em 2 botões (calcular e limpar)
-[2] Uma sessão onde é visualizada o resultado e tabela de classificação do IMC e um botão para limpar informações
-[3] Uma sessão de contato/direitos autorais (footer)
+[1] Um sessão onde é possível que o usuário preenchar dois campos/inputs e posteriormente o resultado digitado nos inputs aparecem. 
+[2] Uma sessão de contato/direitos autorais (footer)
 ```
 <h2 id="tecnologias-ferramentas">Tecnologias & Ferramentas:</h2>
 
@@ -45,14 +44,11 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
 
 - JavaScript:
 
-        - Utilização de Arrow function.
         - Captura elementos html da page com querySelector através DOM.
         - Manipulação do CSS através do JS/DOM.
         - Manipulação de classes com JS.
         - Utilização de funções e métodos de funções.
-        - Utilização de condicionais if e else.
         - Manipulação strings de acordo com input do usuário.
-        - Identificar o alvo de eventos utilizando a propriedade target.
         - Utilizar o atributo parentElement para navegar na estrutura do DOM e acessar elementos pai
 
 - HTML5:
