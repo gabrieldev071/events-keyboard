@@ -8,7 +8,7 @@
 
 <h2>Sobre o projeto:</h2>
 
-<p>Um projeto web báisco onde é possível que o usuário digite em dois campos/inputse ao digitar no teclado, os valores do inputs aparecem em uma nova div no forms. O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do TECLADO com JavaScript. </p>
+<p>Um projeto web básico onde é possível que o usuário digite em dois campos/inputs e ao digitar no teclado, os valores do inputs aparecem em uma nova div no forms. O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do TECLADO com JavaScript. </p>
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
