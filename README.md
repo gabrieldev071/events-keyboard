@@ -8,7 +8,7 @@
 
 <h2>Sobre o projeto:</h2>
 
-<p>Um projeto web básico onde é possível que o usuário digite em dois campos/inputs e ao digitar no teclado, os valores do inputs aparecem em uma nova div no forms. O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do TECLADO com JavaScript. </p>
+<p>Um projeto web básico onde é possível que o usuário digite em dois campos/inputs e ao digitar no teclado, os valores do inputs aparecem em um novo campo no forms. O objetivo do projeto foi trabalhar e por em prática como funciona a manipualção do DOM (Document Object Model), uso de funções, e principalmente EVENTOS do TECLADO com JavaScript. </p>
 
 <h2 id="projeto">Apresentação do projeto:</h2> 
 
@@ -16,20 +16,20 @@
 
 <h2>Sobre o desenvolvimento do projeto:</h2>
 
-<p>Durante o desenvolvimento pude por em prática e aprimorar minhas habilidades utilizando <strong>HTML5 e tags semânticas,</strong> <strong>CSS3 com sua estilização seguindo um padrão de cores</strong> e também pude compreender melhor como a manipulação de DOM, funções e eventos em<strong> JavaScript</strong></p>
+<p>Durante o desenvolvimento pude por em prática e aprimorar minhas habilidades utilizando <strong>HTML5 e tags semânticas,</strong> <strong>CSS3 com sua estilização seguindo um padrão de cores</strong> e também pude compreender melhor eventos, a manipulação de DOM e funções em<strong> JavaScript</strong></p>
 
 <h2>💻 Deploy:</h2>
 
-- Visite o projeto online: [custom-imc-calculator](https://gabrieldev071.github.io/custom-imc-calculator/)
+- Visite o projeto online: [events-keyboard](https://gabrieldev071.github.io/events-keyboard/)
 
 <h2 id="layout">🔖 Layout:</h2> 
 
-Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode visualizar a paletra de cores do projeto através [DESSE LINK](https://uicolors.app/create). A cor que deu origem a paletra de cores é #8514E1.
+Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode visualizar a paletra de cores do projeto através [DESSE LINK](https://uicolors.app/create). A cor que deu origem a paletra de cores é #E8F532.
 
 <h2 id="elementosprincipais">Elementos principais da página:</h2>
 
 ```
-[1] Um sessão onde é possível que o usuário preenchar dois campos/inputs e posteriormente o resultado digitado nos inputs aparecem. 
+[1] Um sessão onde é possível que o usuário preenchar dois campos/inputs e posteriormente, o conteúdo digitado nos inputs aparecem em um novo campo no forms. 
 [2] Uma sessão de contato/direitos autorais (footer)
 ```
 <h2 id="tecnologias-ferramentas">Tecnologias & Ferramentas:</h2>
@@ -48,12 +48,12 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
         - Manipulação do CSS através do JS/DOM.
         - Manipulação de classes com JS.
         - Utilização de funções e métodos de funções.
-        - Manipulação strings de acordo com input do usuário.
+        - Manipulação conteúdo(InnerHTML) de acordo com input do usuário.
         - Utilizar o atributo parentElement para navegar na estrutura do DOM e acessar elementos pai
 
 - HTML5:
 
-        - Tags como section, div, span, footer, nav, ul button, img, a,  h1, p, input.
+        - Tags como section, div, forms, span, footer, label, nav, ul button, img, a,  h1, p, input.
         - Adicionar mais de um nome de classe a um elemento html.
         - Adicionar link de fonte padrão a ser utilizada na aplicação na sessão head do index.html.
         - Adicionar link de estilos a ser utilizado na aplicação na sessão head index.html.
@@ -62,7 +62,7 @@ Foi utilizado apenas uma paleta de cores para aplicar no porjeto. Você pode vis
 
         - Variáveis no CSS.
         - Reaproveitamenteo do código.
-        - Responsividade (medidas relativas e para telas diferentes)
+        - Responsividade @media queries (medidas relativas e para telas diferentes)
         - Utilização do flexbox.
         - Uso de paleta de cores.
         - Utilização pseudo-elementos e pseudo-classes.
